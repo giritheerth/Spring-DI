@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DependencyInjectionApplication<dependencyInjection>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.learn.dependencyInjection.DependencyInjectionApplication",
+            "projectName": "dependencyInjection",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

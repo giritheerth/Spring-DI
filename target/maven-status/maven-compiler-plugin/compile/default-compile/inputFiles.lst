@@ -1,0 +1,10 @@
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/DependencyInjectionApplication.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/bean/FacebookService.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/bean/InstagramService.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/bean/SocailMediaApp.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/bean/SocialMediaService.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/bean/UserService.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/config/ApplicationConfig.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/di/SocialAppStore.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/di/UserApp.java
+/Users/giri/Downloads/springboot-learning/Spring-DI/src/main/java/com/learn/dependencyInjection/di/WhatsAppService.java
