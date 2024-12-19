@@ -9,8 +9,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class DependencyInjectionApplication {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(DependencyInjectionApplication.class, args);
-		ConfigurableApplicationContext context=SpringApplication.run(DependencyInjectionApplication.class, args);
+		SpringApplication.run(DependencyInjectionApplication.class, args);
+		//ConfigurableApplicationContext context=SpringApplication.run(DependencyInjectionApplication.class, args);
 
 	}
 
